@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T06:03:10.813Z" agent="5.0 (Windows)" etag="VfpVo3HiZ75W7VfXARqg" version="13.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-09T10:38:49.617Z" agent="5.0 (Windows)" etag="ZBN7Nypk-mDny-t9stXE" version="13.6.9" type="github" pages="2">
   <diagram id="4SX03xfl399fPzy_mgyT" name="Page-1">
-    <mxGraphModel dx="1693" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="fJe7YX8Wr0SEE7q_bkaH-25" value="&lt;div&gt;Facebook&lt;/div&gt;&lt;div&gt;App Side &lt;br&gt;&lt;/div&gt;&lt;div&gt;Oauth&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="400" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fJe7YX8Wr0SEE7q_bkaH-26" value="&lt;div&gt;Instagram&lt;/div&gt;&lt;div&gt;App Side &lt;br&gt;&lt;/div&gt;&lt;div&gt;Oauth&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="fJe7YX8Wr0SEE7q_bkaH-26" value="&lt;div&gt;Gmail&lt;/div&gt;&lt;div&gt;App Side &lt;br&gt;&lt;/div&gt;&lt;div&gt;Oauth&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="400" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fJe7YX8Wr0SEE7q_bkaH-31" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -166,7 +166,7 @@
         <mxCell id="fJe7YX8Wr0SEE7q_bkaH-79" value="&lt;div&gt;Facebook&lt;/div&gt;&lt;div&gt;App Side &lt;br&gt;&lt;/div&gt;&lt;div&gt;Oauth&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1370" y="410" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fJe7YX8Wr0SEE7q_bkaH-80" value="&lt;div&gt;Instagram&lt;/div&gt;&lt;div&gt;App Side &lt;br&gt;&lt;/div&gt;&lt;div&gt;Oauth&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="fJe7YX8Wr0SEE7q_bkaH-80" value="&lt;div&gt;Gmail&lt;/div&gt;&lt;div&gt;App Side &lt;br&gt;&lt;/div&gt;&lt;div&gt;Oauth&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1500" y="410" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fJe7YX8Wr0SEE7q_bkaH-81" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;" parent="1" edge="1">
@@ -254,10 +254,10 @@
         </mxCell>
         <mxCell id="fJe7YX8Wr0SEE7q_bkaH-97" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="780" as="sourcePoint" />
-            <mxPoint x="1100" y="710" as="targetPoint" />
+            <mxPoint x="900" y="770" as="sourcePoint" />
+            <mxPoint x="1100" y="700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1100" y="780" />
+              <mxPoint x="1100" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -449,7 +449,7 @@
           <mxGeometry x="1112" y="1380" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cb5zV4SubRyhLiwe22GS-11" value="&lt;div&gt;Other status Codes&lt;/div&gt;&lt;div&gt;401 - Token invalid Log out user &lt;br&gt;&lt;/div&gt;&lt;div&gt;Go to Login Page&lt;br&gt;&lt;/div&gt;" style="text;html=1;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="1300" width="100" height="100" as="geometry" />
+          <mxGeometry x="1370" y="1300" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Cb5zV4SubRyhLiwe22GS-23" value="&lt;div&gt;GET REQUEST&lt;/div&gt;&lt;div&gt;/Register/Luser/Profile?lat={}&amp;amp;long={}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Header &lt;br&gt;&lt;/div&gt;&lt;div&gt;token:token&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="1230" width="142" height="90" as="geometry" />
